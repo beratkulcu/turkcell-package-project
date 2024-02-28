@@ -1,0 +1,300 @@
+2024-02-20 12:05:21,901 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21131 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:05:21,906 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:05:21,944 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:05:22,854 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:05:23,014 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 150 ms. Found 1 JPA repository interface.
+2024-02-20 12:05:23,573 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:05:23,648 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:05:23,688 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:05:23,959 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:05:23,992 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:05:24,256 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@35f061ad
+2024-02-20 12:05:24,257 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:05:24,322 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:05:25,242 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:05:25,390 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:05:26,160 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:05:26,215 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 4.712 seconds (process running for 10.348)
+2024-02-20 12:05:26,224 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:05:26,228 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:05:26,232 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:11:34,379 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21207 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:11:34,381 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:11:34,418 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:11:35,245 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:11:35,375 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 121 ms. Found 1 JPA repository interface.
+2024-02-20 12:11:35,885 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:11:35,942 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:11:35,975 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:11:36,224 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:11:36,249 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:11:36,462 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4e4d309a
+2024-02-20 12:11:36,464 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:11:36,493 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:11:37,364 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:11:37,423 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:11:38,214 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:11:38,267 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 4.28 seconds (process running for 9.822)
+2024-02-20 12:11:38,276 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:11:38,279 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:11:38,283 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:14:04,351 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21237 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:14:04,353 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:14:04,390 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:14:05,230 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:14:05,357 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 119 ms. Found 1 JPA repository interface.
+2024-02-20 12:14:05,863 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:14:05,917 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:14:05,950 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:14:06,191 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:14:06,215 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:14:06,372 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@1d959ef7
+2024-02-20 12:14:06,373 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:14:06,403 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:14:07,274 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:14:07,331 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:14:08,088 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:14:08,139 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 4.172 seconds (process running for 9.744)
+2024-02-20 12:14:08,147 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:14:08,150 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:14:08,154 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:15:34,457 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21258 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:15:34,458 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:15:34,489 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:15:35,129 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:15:35,240 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 105 ms. Found 1 JPA repository interface.
+2024-02-20 12:15:35,646 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:15:35,701 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:15:35,732 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:15:35,944 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:15:35,968 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:15:36,119 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2fa26e8f
+2024-02-20 12:15:36,121 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:15:36,152 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:15:36,988 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:15:37,044 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:15:37,809 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:15:37,861 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.708 seconds (process running for 9.205)
+2024-02-20 12:15:37,868 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:15:37,871 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:15:37,875 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:15:58,910 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21274 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:15:58,911 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:15:58,943 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:15:59,632 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:15:59,751 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 113 ms. Found 1 JPA repository interface.
+2024-02-20 12:16:00,183 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:16:00,222 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:16:00,247 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:16:00,414 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:16:00,435 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:16:00,563 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@6307935d
+2024-02-20 12:16:00,564 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:16:00,585 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:16:01,266 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:16:01,319 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:16:02,000 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:16:02,050 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.457 seconds (process running for 8.969)
+2024-02-20 12:16:02,058 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:16:02,061 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:16:02,066 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:18:44,503 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21305 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:18:44,505 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:18:44,535 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:18:45,201 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:18:45,329 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 122 ms. Found 1 JPA repository interface.
+2024-02-20 12:18:45,728 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:18:45,772 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:18:45,797 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:18:45,983 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:18:46,005 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:18:46,188 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@500e62a1
+2024-02-20 12:18:46,190 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:18:46,215 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:18:47,046 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:18:47,130 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:18:48,022 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:18:48,086 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.887 seconds (process running for 9.332)
+2024-02-20 12:18:48,095 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:18:48,099 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:18:48,103 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:20:54,285 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21348 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:20:54,286 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:20:54,319 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:20:55,070 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:20:55,192 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 116 ms. Found 1 JPA repository interface.
+2024-02-20 12:20:55,612 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:20:55,651 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:20:55,675 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:20:55,844 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:20:55,865 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:20:55,992 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@640e2313
+2024-02-20 12:20:55,994 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:20:56,014 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:20:56,727 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:20:56,786 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:20:57,519 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:20:57,572 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.605 seconds (process running for 9.082)
+2024-02-20 12:20:57,581 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:20:57,584 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:20:57,588 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:23:04,907 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21376 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:23:04,909 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:23:04,940 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:23:05,594 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:23:05,710 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 109 ms. Found 1 JPA repository interface.
+2024-02-20 12:23:06,112 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:23:06,156 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:23:06,182 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:23:06,362 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:23:06,382 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:23:06,508 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7a128089
+2024-02-20 12:23:06,510 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:23:06,532 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:23:07,270 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:23:07,329 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:23:08,065 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:23:08,117 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.507 seconds (process running for 8.983)
+2024-02-20 12:23:08,125 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:23:08,128 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:23:08,135 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:23:54,093 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21395 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:23:54,094 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:23:54,129 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:23:54,821 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:23:54,947 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 120 ms. Found 1 JPA repository interface.
+2024-02-20 12:23:55,378 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:23:55,417 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:23:55,440 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:23:55,604 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:23:55,624 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:23:55,753 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@503a19d9
+2024-02-20 12:23:55,754 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:23:55,775 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:23:56,541 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:23:56,606 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:23:57,358 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:23:57,416 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.641 seconds (process running for 9.147)
+2024-02-20 12:23:57,423 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:23:57,426 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:23:57,431 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:26:31,192 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21433 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:26:31,193 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:26:31,225 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:26:31,885 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:26:32,000 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 109 ms. Found 1 JPA repository interface.
+2024-02-20 12:26:32,412 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:26:32,456 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:26:32,480 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:26:32,663 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:26:32,684 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:26:32,815 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@2cadce5
+2024-02-20 12:26:32,816 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:26:32,839 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:26:33,585 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:26:33,640 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:26:34,368 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:26:34,421 INFO  [restartedMain] com.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.525 seconds (process running for 8.995)
+2024-02-20 12:26:34,430 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:26:34,433 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:26:34,437 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:29:49,136 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21486 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:29:49,138 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:29:49,171 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:29:49,757 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:29:49,802 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interface.
+2024-02-20 12:29:50,208 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:29:50,246 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:29:50,270 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:29:50,435 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:29:50,456 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:29:50,590 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@4583205f
+2024-02-20 12:29:50,591 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:29:50,616 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:29:51,366 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:29:51,425 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:29:52,180 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:29:52,236 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.42 seconds (process running for 8.906)
+2024-02-20 12:29:52,244 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:29:52,248 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:29:52,252 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:31:50,897 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21514 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:31:50,898 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:31:50,928 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:31:51,483 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:31:51,520 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 31 ms. Found 1 JPA repository interface.
+2024-02-20 12:31:51,899 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:31:51,942 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:31:51,966 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:31:52,144 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:31:52,165 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:31:52,298 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@e9fc743
+2024-02-20 12:31:52,300 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:31:52,319 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:31:52,986 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:31:53,038 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:31:53,705 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:31:53,763 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.165 seconds (process running for 8.648)
+2024-02-20 12:31:53,771 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:31:53,774 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:31:53,777 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:33:01,804 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21535 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:33:01,805 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:33:01,838 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:33:02,424 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:33:02,470 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 34 ms. Found 1 JPA repository interface.
+2024-02-20 12:33:02,877 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:33:02,916 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:33:02,940 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:33:03,116 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:33:03,138 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:33:03,273 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@7ab33799
+2024-02-20 12:33:03,274 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:33:03,299 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:33:04,030 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:33:04,085 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:33:04,792 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:33:04,845 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.352 seconds (process running for 8.835)
+2024-02-20 12:33:04,853 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:33:04,856 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:33:04,860 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:35:49,767 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21566 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:35:49,769 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:35:49,800 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:35:50,351 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:35:50,388 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 31 ms. Found 1 JPA repository interface.
+2024-02-20 12:35:50,762 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:35:50,806 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:35:50,830 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:35:51,006 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:35:51,028 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:35:51,157 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@426d8c51
+2024-02-20 12:35:51,159 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:35:51,178 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:35:51,898 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:35:51,954 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:35:52,675 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:35:52,730 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.261 seconds (process running for 8.727)
+2024-02-20 12:35:52,738 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:35:52,742 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:35:52,745 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
+2024-02-20 12:39:37,018 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:Starting TurkcellPaketProjesiApplication using Java 17.0.10 with PID 21613 (/Users/beratkulcu/Desktop/Turkcell-Paket-Projesi/target/classes started by beratkulcu in /Users/beratkulcu/Desktop/Turkcell-Paket-Projesi)
+2024-02-20 12:39:37,020 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:No active profile set, falling back to 1 default profile: "default"
+2024-02-20 12:39:37,051 INFO  [restartedMain] org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor:Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-02-20 12:39:37,627 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-20 12:39:37,670 INFO  [restartedMain] org.springframework.data.repository.config.RepositoryConfigurationDelegate:Finished Spring Data repository scanning in 33 ms. Found 1 JPA repository interface.
+2024-02-20 12:39:38,074 INFO  [restartedMain] org.hibernate.jpa.internal.util.LogHelper:HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-20 12:39:38,123 INFO  [restartedMain] org.hibernate.Version:HHH000412: Hibernate ORM core version 6.4.1.Final
+2024-02-20 12:39:38,149 INFO  [restartedMain] org.hibernate.cache.internal.RegionFactoryInitiator:HHH000026: Second-level cache disabled
+2024-02-20 12:39:38,334 INFO  [restartedMain] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo:No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-02-20 12:39:38,355 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Starting...
+2024-02-20 12:39:38,547 INFO  [restartedMain] com.zaxxer.hikari.pool.HikariPool:HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@32989fce
+2024-02-20 12:39:38,548 INFO  [restartedMain] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Start completed.
+2024-02-20 12:39:38,574 WARN  [restartedMain] org.hibernate.orm.deprecation:HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-02-20 12:39:39,324 INFO  [restartedMain] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator:HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-02-20 12:39:39,383 INFO  [restartedMain] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:39:40,093 INFO  [restartedMain] org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer:LiveReload server is running on port 35729
+2024-02-20 12:39:40,148 INFO  [restartedMain] com.turkcell.TurkcellPaketProjesiApplication:Started TurkcellPaketProjesiApplication in 3.45 seconds (process running for 9.049)
+2024-02-20 12:39:40,156 INFO  [SpringApplicationShutdownHook] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean:Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-02-20 12:39:40,159 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown initiated...
+2024-02-20 12:39:40,162 INFO  [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource:HikariPool-1 - Shutdown completed.
